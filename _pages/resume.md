@@ -22,8 +22,8 @@ featured_image: /images/demo/about.jpg
 
 
  * Developed Clonetracker, the image processing component of the Pheno product. Clonetracker implements 
-a traditional image processing pipeline to analyze bacteria in fluorescence and dark-field images in C++/CUDA.
-Working in a small team of three, I was solely responsible for application performance and the production 
+a traditional image processing pipeline to analyze bacteria in fluorescence and dark-field microscopy images in C++/CUDA.
+Working in a team of three, I was solely responsible for application performance and the production 
 codebase from inception to 2018. It is in use in hundreds of hospitals.
  * Designed, procured, and implemented the Opus Feasibility Computing Environment, an on-premises
  all-flash parallel filesystem, private high-speed ethernet network, and GPU-based batch processing system
