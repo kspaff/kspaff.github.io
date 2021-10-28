@@ -7,15 +7,6 @@ featured_image: /images/demo/about.jpg
 
 ## Experience
 
-**Cofounder and Head of Software - [Macula Vision Systems](http://macula-vision.com)**
-
-<font size="3">October 2021 - Present</font>
-
- * Leading software development for an exciting application in the realm of digital holographic microscopy
-
-
----------
-
 **Principal Software Engineer - [Accelerate Diagnostics](https://acceleratediagnostics.com/)**
 
 <font size="3">January 2014 - September 2021</font>
