@@ -1,6 +1,6 @@
 ---
-title: About me
-subtitle: Software developer in Austin, Texas
+title: About Me
+subtitle: Software Developer Based in Austin, Texas
 description: 
 featured_image: /images/demo/about.jpg
 ---
